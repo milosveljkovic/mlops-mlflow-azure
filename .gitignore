@@ -1,0 +1,14 @@
+#mlflow
+artifacts/
+mlruns/
+mlflow.db
+
+#docker
+.docker-compose.yml.swp
+
+#venv
+bin/
+include/
+lib*/
+
+creds.txt
